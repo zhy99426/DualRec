@@ -1,6 +1,6 @@
 ## DualRec (Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks)    
 
-Implementation of CIKM 2022 Paper "[Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks](https://dl.acm.org/doi/10.1145/3511808.3557289)"
+Implementation of CIKM2022 Paper "[Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks](https://dl.acm.org/doi/10.1145/3511808.3557289)"
 
 
 ## Description   
