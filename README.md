@@ -29,6 +29,8 @@ python run.py fit --config src/config/{datasets_name}.yaml
 python run.py test --config {config_path} --ckpt_path {checkpoint_path}
   ```
 
+It is also available to run directly on Code Ocean at https://codeocean.com/capsule/2893025/tree.
+
 ## Cite our work
 ```
 @inproceedings{10.1145/3511808.3557289,
